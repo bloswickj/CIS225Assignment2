@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=length\ width\ drawers\ order\ wood\ name
+comment0.target=Desk(int,\ int,\ int,\ int,\ java.lang.String,\ java.lang.String)
+comment1.params=
+comment1.target=void\ printReceipt()
+comment2.params=
+comment2.target=void\ calculateFinalPrice()
+numComments=3
